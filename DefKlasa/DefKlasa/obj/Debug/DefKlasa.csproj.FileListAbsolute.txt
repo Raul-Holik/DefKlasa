@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\DefKlasa\DefKlasa\bin\Debug\DefKlasa.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\DefKlasa\DefKlasa\bin\Debug\DefKlasa.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\DefKlasa\DefKlasa\bin\Debug\DefKlasa.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\DefKlasa\DefKlasa\obj\Debug\DefKlasa.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\DefKlasa\DefKlasa\obj\Debug\DefKlasa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\DefKlasa\DefKlasa\obj\Debug\DefKlasa.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\DefKlasa\DefKlasa\obj\Debug\DefKlasa.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\DefKlasa\DefKlasa\obj\Debug\DefKlasa.pdb
